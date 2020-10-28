@@ -1,2 +1,3 @@
 # CRUD
-● CRUD Project in Spring - Using: JPA API, REST API, Thymeleaf API.
+CRUD Project in Spring - Using: Maven, JPA API, REST API, Thymeleaf API.
+BD: SQL.
